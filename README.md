@@ -1,4 +1,4 @@
-# Agency42 Cookbook: Community-Driven AI Recipes for Business Applications
+# Agency42 Cookbook: Featured AI Recipes for Business Applications
 
 Welcome to the Agency42 Cookbook, a unique collection of open-source generative AI recipes and tutorials for building innovative business applications. Our cookbook stands out by featuring contributions from talented developers across the community, showcasing their practical and impactful AI solutions.
 
