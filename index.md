@@ -4,7 +4,7 @@ A collection of projects for getting started with building agentic AI software.
 
 ## Featured Recipes
 
-### Client-Researcher — 100% free and local web search agent using PhiData, Ollama, and DuckDuckGo by [@kenneth cavanagh](https://github.com/k3nnethfrancis/)
+### Client-Researcher — Open Source web search agents with PhiData, Ollama, and DuckDuckGo by [@kenneth cavanagh](https://github.com/k3nnethfrancis/)
 
 This powerful tool automates the process of researching potential clients, saving time and providing valuable insights for sales and marketing teams. It demonstrates effective use of AI for business intelligence and lead generation.
 
